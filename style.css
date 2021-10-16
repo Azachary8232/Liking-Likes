@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.lego{
+    border: 3px solid black;
+}
+
+.container{
+    border: none;
+    width: 600px;
+    height: 300px;
+    margin: 100px;
+}
+
+.divider{
+    width: auto;
+    height: 140px;
+}
+
+.btn{
+    border: 3px solid black;
+    background-color: yellow;
+    color: black;
+    box-shadow: 3px 3px;
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.textCenter{
+    margin: 50px;
+}
+
+.marginRight{
+    margin-right: 30px;
+}
+
+#likes{
+    margin-top: 5px;
+}
