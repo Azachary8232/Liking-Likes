@@ -62,5 +62,30 @@
     justify-content: space-between;
 }
 
+.profile{
+    width: 75px;
+    display: block;
+}
+
+.margin{
+    margin-bottom: 40px;
+    margin-top: 25px;
+    display: block;
+}
+
+.marginLeft{
+    margin-left: 25px;
+}
+
+.avatar{
+    margin-left: 65px;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.james{
+    margin: 0px 35px;
+}
+
 
 
