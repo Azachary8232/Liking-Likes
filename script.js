@@ -1,7 +1,7 @@
 
 
 var likes = document.querySelector("#likes");
-var count = 0
+var count = 0;
 
 function addLikes(){
     count++;
